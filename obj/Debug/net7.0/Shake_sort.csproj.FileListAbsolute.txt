@@ -1,0 +1,15 @@
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\bin\Debug\net7.0\Shake_sort.exe
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\bin\Debug\net7.0\Shake_sort.deps.json
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\bin\Debug\net7.0\Shake_sort.runtimeconfig.json
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\bin\Debug\net7.0\Shake_sort.dll
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\bin\Debug\net7.0\Shake_sort.pdb
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\obj\Debug\net7.0\Shake_sort.csproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\obj\Debug\net7.0\Shake_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\obj\Debug\net7.0\Shake_sort.AssemblyInfoInputs.cache
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\obj\Debug\net7.0\Shake_sort.AssemblyInfo.cs
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\obj\Debug\net7.0\Shake_sort.csproj.CoreCompileInputs.cache
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\obj\Debug\net7.0\Shake_sort.dll
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\obj\Debug\net7.0\refint\Shake_sort.dll
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\obj\Debug\net7.0\Shake_sort.pdb
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\obj\Debug\net7.0\Shake_sort.genruntimeconfig.cache
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\АДМ\Shake_sort\obj\Debug\net7.0\ref\Shake_sort.dll
